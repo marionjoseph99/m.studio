@@ -2289,3 +2289,14 @@ h1 {
 #main-content {
   display: none;
 }
+
+
+.btn-left 
+{
+  margin-bottom: 10px;
+}
+
+.swiper
+{
+  margin-left: 15px;
+}
